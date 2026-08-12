@@ -384,7 +384,7 @@ Based on the analytical framework, healthcare organizations could consider:
 
 ### Dashboard 2 — Diabetes Prevention & Risk Analysis
 
-![Diabetes Prevention & Risk Analysis](screenshots/02_risk_prevention.png)
+![Diabetes Prevention & Risk Analysis](screenshots/02_prevention_risk_analysis.png)
 
 ### Dashboard 3 — Population Risk Segmentation
 
@@ -396,11 +396,11 @@ Based on the analytical framework, healthcare organizations could consider:
 
 ### Dashboard 5 — Diabetes Care Quality
 
-![Diabetes Care Quality](screenshots/05_care_quality.png)
+![Diabetes Care Quality](screenshots/05_Care_quality.png)
 
 ### Dashboard 6 — Actionable Recommendations
 
-![Actionable Recommendations](screenshots/06_recommendation.png)
+![Actionable Recommendations](screenshots/06_recommendations.png)
 ## Skills Demonstrated
 
 * Healthcare Data Analytics
