@@ -364,23 +364,43 @@ Based on the analytical framework, healthcare organizations could consider:
 
 **Completed**
 
-* PostgreSQL data warehouse
-* Data cleaning and transformation
-* Data quality validation
-* SQL analytics layer
-* Analytical views
-* Healthcare KPIs
-* Risk classification frameworks
-* Power BI dashboard development
+- PostgreSQL data warehouse
+- Data cleaning and transformation
+- Data quality validation
+- SQL analytics layer
+- Analytical views
+- Healthcare KPIs
+- Risk classification frameworks
+- Power BI dashboard development
+- Dashboard screenshots
+- README project documentation
+- Business insights and recommendations
 
-**Next**
+## 📸 Dashboard Screenshots
 
-* Dashboard documentation
-* Dashboard screenshots
-* Final business insights and recommendations
+### Dashboard 1 — Executive Summary
 
----
+![Executive Summary](screenshots/01_executive_summary.png)
 
+### Dashboard 2 — Diabetes Prevention & Risk Analysis
+
+![Diabetes Prevention & Risk Analysis](screenshots/02_risk_prevention.png)
+
+### Dashboard 3 — Population Risk Segmentation
+
+![Population Risk Segmentation](screenshots/03_risk_segmentation.png)
+
+### Dashboard 4 — Hospital Operations & Readmission
+
+![Hospital Operations & Readmission](screenshots/04_hospital_readmission.png)
+
+### Dashboard 5 — Diabetes Care Quality
+
+![Diabetes Care Quality](screenshots/05_care_quality.png)
+
+### Dashboard 6 — Actionable Recommendations
+
+![Actionable Recommendations](screenshots/06_recommendation.png)
 ## Skills Demonstrated
 
 * Healthcare Data Analytics
