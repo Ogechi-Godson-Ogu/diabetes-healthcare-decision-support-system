@@ -9,26 +9,33 @@ The screenshots provide a visual overview of the project's healthcare analytics,
 ### Executive Summary
 
 Provides an overview of key healthcare performance indicators, including hospital visits, readmissions, diabetes prevalence, and healthcare utilization.
+![Executive Summary](01_executive_summary.png)
 
 ### Diabetes Prevention & Risk Analysis
 
 Highlights diabetes prevalence, major risk factors, population characteristics, and prevention priorities.
+![Diabetes Prevention & Risk Analysis](02_prevention_risk_analysis.png)
 
 ### Population Risk Segmentation
 
 Shows the distribution of patients or populations across different diabetes risk categories and identifies groups requiring greater prevention attention.
+![Population Risk Segmentation](03_risk_segmentation.png)
 
 ### Hospital Operations & Readmission
 
 Analyzes hospital utilization, length of stay, emergency and inpatient activity, and readmission patterns.
+![Hospital Operations & Readmission](04_hospital_readmission.png)
 
 ### Diabetes Care Quality
 
 Examines HbA1c testing, insulin therapy, medication management, and other indicators of diabetes care quality.
+![Diabetes Care Quality](05_Care_quality.png)
 
 ### Actionable Recommendations
 
 Summarizes the major findings and translates the analysis into practical healthcare and operational recommendations.
+
+![Actionable Recommendations](06_recommendations.png)
 
 ---
 
