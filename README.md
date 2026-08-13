@@ -377,8 +377,7 @@ Based on the analytical framework, healthcare organizations could consider:
 - Business insights and recommendations
 
 ## 📸 Dashboard Screenshots
-
-![Executive Summary](Power%20BI/screenshots/01_executive_summary.png)
+Rename Executive Summary.png to 01_executive_summary.png
 
 ![Diabetes Prevention & Risk Analysis](Power%20BI/screenshots/02_prevention_risk_analysis.png)
 
