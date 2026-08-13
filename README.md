@@ -378,29 +378,17 @@ Based on the analytical framework, healthcare organizations could consider:
 
 ## 📸 Dashboard Screenshots
 
-### Dashboard 1 — Executive Summary
+![Executive Summary](Power%20BI/screenshots/01_executive_summary.png)
 
-![Executive Summary](screenshots/01_executive_summary.png)
+![Diabetes Prevention & Risk Analysis](Power%20BI/screenshots/02_prevention_risk_analysis.png)
 
-### Dashboard 2 — Diabetes Prevention & Risk Analysis
+![Population Risk Segmentation](Power%20BI/screenshots/03_risk_segmentation.png)
 
-![Diabetes Prevention & Risk Analysis](screenshots/02_prevention_risk_analysis.png)
+![Hospital Operations & Readmission](Power%20BI/screenshots/04_hospital_readmission.png)
 
-### Dashboard 3 — Population Risk Segmentation
+![Diabetes Care Quality](Power%20BI/screenshots/05_Care_quality.png)
 
-![Population Risk Segmentation](screenshots/03_risk_segmentation.png)
-
-### Dashboard 4 — Hospital Operations & Readmission
-
-![Hospital Operations & Readmission](screenshots/04_hospital_readmission.png)
-
-### Dashboard 5 — Diabetes Care Quality
-
-![Diabetes Care Quality](screenshots/05_Care_quality.png)
-
-### Dashboard 6 — Actionable Recommendations
-
-![Actionable Recommendations](screenshots/06_recommendations.png)
+![Actionable Recommendations](Power%20BI/screenshots/06_recommendations.png)
 
 ## Skills Demonstrated
 
